@@ -4,7 +4,7 @@ declare -x PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
 TMP="/tmp/buffer"
 LIST="/tmp/list"
 USERS="/tmp/users"
-FACIP="198.51.100.32"
+FACIP="REPLACE_WITH_FortiAuthenticator_IP"
 FACAPIKEY="REPLACE_WITH_FortiAuthenticator_API_KEY"
 FACUSERNAME="admin"
 
