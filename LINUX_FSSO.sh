@@ -5,7 +5,7 @@ TMP="/tmp/buffer"
 LIST="/tmp/list"
 USERS="/tmp/users"
 FACIP="198.51.100.32"
-FACAPIKEY="Ily5ZHMmLuiQUqDVoSPQ87jmlZ8knLEqqUvR5GVp"
+FACAPIKEY="REPLACE_WITH_FortiAuthenticator_API_KEY"
 FACUSERNAME="admin"
 
 NETSTAT="/bin/netstat"
